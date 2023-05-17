@@ -1,0 +1,11 @@
+asyncio
+base64
+json
+open
+gtts
+opencv-python
+playsound
+pyaudio
+translate
+ultralytics
+websockets
