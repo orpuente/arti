@@ -7,7 +7,7 @@ You will need an AssemblyAI token. This is a paid service. You can get a token a
 ## Installation
 
 ### Installing PyThorch with support for CUDA
-This is optional, but it is necesary if you want ARTI to un on real-time.
+This is optional, but it is necesary if you want ARTI to run in real-time.
 
 You need a CUDA 11.8 supported GPU, you can check the supported GPUs in this table,
 https://en.wikipedia.org/wiki/CUDA#GPUs_supported
