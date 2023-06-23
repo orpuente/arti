@@ -7,7 +7,7 @@ import pyaudio
 
 # the AssemblyAI endpoint we're going to hit
 URL = "wss://api.assemblyai.com/v2/realtime/ws?sample_rate=16000"
-auth_key = 'b2c01afb790f4fdcbaddcb2408cfca1c'
+auth_key = 'YOUR_ASSEMBLYAI_TOKEN_HERE'
 
 FRAMES_PER_BUFFER = 3200
 
